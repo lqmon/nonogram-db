@@ -1,0 +1,27 @@
+catalogue "generate.go with seed 26"
+title "Random #26"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 7
+width 7
+
+rows
+2
+4
+6
+2,2
+1,2
+1,2
+2,1
+
+columns
+1,1
+1
+6
+4,2
+3,1
+4
+1,1
+
+goal "0001100001111011111100011011001011010110000011001"

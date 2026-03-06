@@ -1,0 +1,27 @@
+catalogue "generate.go with seed 7"
+title "Random #7"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 7
+width 7
+
+rows
+2
+1,1
+1,1
+2,1
+1,1
+2
+1,4
+
+columns
+2
+1,1
+2
+4,1
+1,1
+1,1
+2,1
+
+goal "0001100010100000010010011001001001011000001001111"

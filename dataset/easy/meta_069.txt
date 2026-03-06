@@ -1,0 +1,27 @@
+catalogue "generate.go with seed 69"
+title "Random #69"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 7
+width 7
+
+rows
+2,1,1
+1,2
+3,1
+2,1
+1,1
+1,1,2
+1,3
+
+columns
+1,1,2
+1,3
+3
+2
+2,1
+2,2
+1,3
+
+goal "1100101001011011100100110001010000110010111001110"

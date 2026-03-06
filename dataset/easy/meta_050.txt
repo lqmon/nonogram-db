@@ -1,0 +1,27 @@
+catalogue "generate.go with seed 50"
+title "Random #50"
+by "Michael Terry"
+copyright "© 2015 Michael Terry"
+license CC-BY-SA-4.0
+height 7
+width 7
+
+rows
+1,2
+1,1,1
+1,1,2
+6
+2
+1,2
+1,1
+
+columns
+4
+4
+2
+4,1
+1,1,1
+2,1
+2
+
+goal "1001100100100110010111111110011000001011000100010"
